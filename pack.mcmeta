@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "BCF QOL Improvements: armored elytra show the chestplate and the wings",
+    "min_format": [97, 1],
+    "max_format": 97
+  }
+}
